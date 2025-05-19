@@ -24,7 +24,7 @@ $result = $conn->query($query);
 </head>
 <body>
     <div class="container mt-5">
-        <h2 class="text-center">All Membership Details</h2>
+        <h2 class="text-center ">All Membership Details</h2>
         <table class="table table-bordered mt-4">
             <thead>
                 <tr>
