@@ -44,7 +44,7 @@ $result = $conn->query($query);
                         echo "<td>" . ($row['CardID']) . "</td>";
                         echo "<td>" . ($row['studentName']) . "</td>";
                         echo "<td>" . ($row['CardNumber']) . "</td>";
-                        echo "<td>RM " . (($row['Balance'])) . "</td>";
+                        echo "<td>RM " . (($row['Balanse'])) . "</td>";
                         echo "<td>" . ($row['ExpiryDate']) . "</td>";
                         echo "</tr>";
                     }
